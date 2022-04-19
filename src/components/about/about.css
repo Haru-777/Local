@@ -1,13 +1,3 @@
-.about__title{
-    text-align: center;
-    
-}
-.about__title h5{
-    margin-bottom: 1rem;
-}
-.about__title h2{
-    margin-bottom: 5rem;
-}
 .about__container{
     display: grid;
     grid-template-columns: 35% 50%;
