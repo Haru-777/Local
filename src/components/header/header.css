@@ -37,7 +37,7 @@ header{
 .me{
     background: var(--color-bg-variant);
     width: 22rem;
-    height: 30rem;
+    height: 35rem;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
