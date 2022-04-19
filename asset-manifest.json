@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio-lina/static/css/main.428681df.css",
+    "main.js": "/portfolio-lina/static/js/main.4c73f9bc.js",
+    "static/media/portafolio.jpg": "/portfolio-lina/static/media/portafolio.686aa7ebb369097c6f21.jpg",
+    "static/media/cv.pdf": "/portfolio-lina/static/media/cv.ed2f9821d48623b7d568.pdf",
+    "static/media/mundomujer.png": "/portfolio-lina/static/media/mundomujer.75cb91160f90a107e191.png",
+    "static/media/rmpay.png": "/portfolio-lina/static/media/rmpay.a62cf1d266114e20f57e.png",
+    "static/media/ivupage.png": "/portfolio-lina/static/media/ivupage.a252a54ce58537a6818f.png",
+    "index.html": "/portfolio-lina/index.html",
+    "main.428681df.css.map": "/portfolio-lina/static/css/main.428681df.css.map",
+    "main.4c73f9bc.js.map": "/portfolio-lina/static/js/main.4c73f9bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.428681df.css",
+    "static/js/main.4c73f9bc.js"
+  ]
+}
