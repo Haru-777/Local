@@ -13,12 +13,22 @@ const Portfolio = () => {
   <article className='portfolio__item'>
     <div className='portfolio__image'>
       <img src={IMG1} alt='' />
+      <p className='portfolio__item-p'>I am actively participating in the development and production of a
+mobile application for the purchase of products, registration and
+customer management. The project is currently about to go into
+production in Puerto Rico and I am supporting it. </p>
     </div>
     <h3>RM-Pay</h3>
   </article>
   <article className='portfolio__item'>
     <div className='portfolio__image'>
       <img src={IMG2} alt='' />
+      <p className='portfolio__item-p'>
+      I actively participated in the layout, development and production of a
+web page for the purchase of products, registration and customer
+management. The project is currently in production in Puerto Rico
+and I continue to provide support
+      </p>
     </div>
     <h3>Ivu Control</h3>
     <div className='portfolio__item-cta'>
@@ -28,7 +38,7 @@ const Portfolio = () => {
   <article className='portfolio__item'>
     <div className='portfolio__image'>
       <img src= {IMG3} alt =''/>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores totam, sit nam sapiente ea mollitia suscipit voluptatum exercitationem eveniet nobis, adipisci consequuntur eum tempora quos? Id minus architecto dolorum vitae.</p>
+      <p className='portfolio__item-p'>I actively participated in the development and production of a project for the administration of bank loans with Banco Mundo Mujer. The project is currently in production at a national level and I continue to provide support. </p>
     </div>
     <h3>S.O.F.I</h3>
   </article>

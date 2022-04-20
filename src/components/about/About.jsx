@@ -23,24 +23,31 @@ const About = () => {
           <article className='about__card'>
             <BsAward className='about__icon'/>
             <h5>Experience</h5>
-            <small>2+ years working</small>
+            <small>1+ years working</small>
 
           </article>
 
           <article className='about__card'>
             <RiUserStarLine className='about__icon'/>
             <h5>Clients</h5>
-            <small>200+ worldwide</small>
+            <small>20+ worldwide</small>
           </article>
       
           <article className='about__card'>
             <AiOutlineFolderOpen className='about__icon'/>
             <h5>Projects</h5>
-            <small>80+ completed projects</small>
+            <small>5+ completed projects</small>
           </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit culpa distinctio labore omnis amet delectus officiis dignissimos corporis ipsum nam ut, nihil ipsa dolorum aliquid? Doloribus quos vitae fuga accusantium?
+          I am a student of Electronic Engineering and Telecommunications. 
+          I am passionate about web development, mobile development, and systems software architecture.
+          To acquire these skills I have been self-taught for the last four years, as I love researching,
+          analyzing, and understanding architecture related to software development.
+          Currently, I belong to the IEEE student branch, WIE student branch, and I was part of the ISA 
+          student branch for two years. I participated and organized the technological event TET-2019.
+          In a large part of university projects, I have handled the role of Scrum Master for which I handle 
+          the Scrum methodology, consequently teamwork.
           </p>
       <a href='#contact' className='btn btn-primary'>let's Talk</a>
         </div>

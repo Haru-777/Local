@@ -44,7 +44,7 @@ const Experience = () => {
             <article className='experience__details'>
               <AiOutlineCheckSquare className='experience__content-icon'/>
               <div>
-              <h4>Reac native</h4>
+              <h4>React native</h4>
               <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -65,7 +65,7 @@ const Experience = () => {
             <article className='experience__details'>
               <AiOutlineCheckSquare className='experience__content-icon'/>
               <div>
-              <h4>MYsql</h4>
+              <h4>MySQL</h4>
               <small className='text-light'>Intermediate</small>
               </div>
             </article>
